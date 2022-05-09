@@ -1,5 +1,6 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
+
 ###情報工学科とは
 他の学科より**情報**に関して専門的な学習をする学科である:v::v:
 
@@ -7,6 +8,7 @@
 - 拓殖大学
   - 工学部
     - 情報工学科
+
 #####所属人数
 |拓殖大学|工学部|情報工学科|
 |:---|:---:|---:|
@@ -14,9 +16,11 @@
 ~~:point_up:合っているかは不明:point_up:~~
 
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
-[拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
+
+URL:[拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 
 #####学習内容
+
 1. 普通科目
    1. 基礎解析
    1. English
