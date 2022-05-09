@@ -13,6 +13,7 @@
 |拓殖大学|工学部|情報工学科|
 |:---|:---:|---:|
 | 8637 | 1225 | 356 |
+
 ~~:point_up:合っているかは不明:point_up:~~
 
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
